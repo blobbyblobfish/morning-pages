@@ -1,0 +1,12 @@
+{
+  "name": "MorningPages",
+  "displayName": "MorningPages",
+  "expo": {
+    "name": "MorningPages",
+    "slug": "MorningPages",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
